@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/204/Documents/AndroidInventory/app/src/main/res/layout/activity_find_products.xml" value="0.3203125" />
+        <entry key="..\:/Users/204/Documents/AndroidInventory/app/src/main/res/layout/activity_productos.xml" value="0.3203125" />
+        <entry key="..\:/Users/204/Documents/AndroidInventory/app/src/main/res/layout/activity_register.xml" value="0.146875" />
         <entry key="..\:/Users/amerc/AndroidStudioProjects/Inventario/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/amerc/AndroidStudioProjects/Inventario/app/src/main/res/layout/activity_register.xml" value="0.25" />
       </map>

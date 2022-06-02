@@ -24,6 +24,15 @@ public class DbHelper extends SQLiteOpenHelper {
                 "identification INTEGER," +
                 "password VARCHAR(16))";
         db.execSQL(SQL_CREATE_USER);
+
+        String SQL_CREATE_PRODUCT =
+                "CREATE TABLE producs (" +
+                        "id INTEGER PRIMARY KEY AUTOINCREMENT," +
+                        "name VARCHAR(50)," +
+                        "email VARCHAR(50)," +
+                        "identification INTEGER," +
+                        "password VARCHAR(16))";
+        db.execSQL(SQL_CREATE_PRODUCT);
     }
 
     @Override
